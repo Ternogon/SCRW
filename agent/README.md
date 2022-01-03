@@ -2,6 +2,8 @@
 ![logo2](https://user-images.githubusercontent.com/31628014/144424190-ec7b0b40-49f0-41be-b3c6-fc2f3bfb82ff.png)
 
 # trn.SCRW / СКУРС
+_Агент безопасности_
+
 _**СКУРС** — Система контроля удаленных рабочих станций_ 
 
 _**SCRW** — System of Control Remote Workstations_
