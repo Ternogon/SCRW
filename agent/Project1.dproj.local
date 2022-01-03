@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.949,Q:\MIREA\radproj\Project1.dproj=Q:\MIREA\radproj\a_scurs\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.602,Q:\MIREA\radproj\Unit1.pas=Q:\MIREA\radproj\a_scurs\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.610,=Q:\MIREA\radproj\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.602,Q:\MIREA\radproj\Unit1.dfm=Q:\MIREA\radproj\a_scurs\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
