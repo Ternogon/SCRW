@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.344,Q:\MIREA\radproj\scurs\Project1.dproj=C:\Users\terno\OneDrive\Документы\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.415,Q:\MIREA\radproj\scurs\Unit1.dfm=C:\Users\terno\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.662,=Q:\MIREA\radproj\scurs\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.684,Q:\MIREA\radproj\scurs\UserInfo.pas=Q:\MIREA\radproj\scurs\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.415,Q:\MIREA\radproj\scurs\Unit1.pas=C:\Users\terno\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.016,=Q:\MIREA\radproj\scurs\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.488,=C:\Users\terno\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.422,=C:\Users\terno\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+	<BT_BuildType>Debug</BT_BuildType>
+</BorlandProject>
