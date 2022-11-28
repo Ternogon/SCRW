@@ -26,6 +26,24 @@ _**SCRW** — System of Control Remote Workstations_
 - Сервер приложения
 - Агент контроля на АРМ подконтрольного пользователя
 
+### Скриншоты
+
+Скриншот окна аутентификации
+![Auth](https://github.com/Ternogon/SCRW/blob/main/pic/2022-11-28_14-55-44.png)
+
+Скриншот основного окна оснастки администрирования
+![Main](https://github.com/Ternogon/SCRW/blob/main/pic/2022-11-28_14-56-19.png)
+
+Скриншот вкладки общих ограничений для установленной политики
+![Main-P](https://github.com/Ternogon/SCRW/blob/main/pic/2022-11-28_14-56-34.png)
+
+Скриншот вкладки общего журнала событий
+![Main-L](https://github.com/Ternogon/SCRW/blob/main/pic/2022-11-28_14-57-03.png)
+
+Скриншоты вкладки управления пользователями
+![Main-U1](https://github.com/Ternogon/SCRW/blob/main/pic/2022-11-28_14-57-17.png)
+![Main-U6](https://github.com/Ternogon/SCRW/blob/main/pic/2022-11-28_14-57-37.png)
+
 ## 
 
 Так как все данные для подключения к БД вшиты в проект, доступ к БД теперь осуществляется по вайтлисту.
